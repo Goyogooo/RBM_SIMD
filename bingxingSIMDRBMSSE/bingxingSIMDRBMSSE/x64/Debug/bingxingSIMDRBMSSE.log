@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\MyVS\bingxingSIMDRBMSSE\bingxingSIMDRBMSSE\test.cpp(38,21): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\MyVS\bingxingSIMDRBMSSE\bingxingSIMDRBMSSE\test.cpp(84,21): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  bingxingSIMDRBMSSE.vcxproj -> D:\MyVS\bingxingSIMDRBMSSE\x64\Debug\bingxingSIMDRBMSSE.exe
