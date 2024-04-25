@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\MyVS\BXSIMDAVX512\BXSIMDAVX512\test.cpp(40,21): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\MyVS\BXSIMDAVX512\BXSIMDAVX512\test.cpp(110,21): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  BXSIMDAVX512.vcxproj -> D:\MyVS\BXSIMDAVX512\x64\Debug\BXSIMDAVX512.exe
